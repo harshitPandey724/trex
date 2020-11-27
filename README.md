@@ -1,1 +1,2 @@
-# trex
+# TrexD
+Trex Runner, a chrome game
